@@ -1,4 +1,4 @@
-# BIC: Base infrastructure components
+# BIC: Base Infrastructure Components
 
 #### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
 

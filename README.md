@@ -11,7 +11,7 @@ BIC are software components that provide shared the essential services and tools
   * [User Management and Authentication]()
   * [SAGE Continuous Integration]()
   * [Public Streaming Service]()
-  * [Sage Web Portal]()
+  * [Sage Web Portal](https://github.com/sagecontinuum/bic/blob/master/web_portal.md)
 
 The BIC are hosted and excuted on the Sage [Public Cyber Resources]().
 

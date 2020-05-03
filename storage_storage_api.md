@@ -5,7 +5,7 @@
 ### Overview:
 
 Storage services are needed for various software components. Data objects like ML models, 
-and training data need to be accessible and require permission control. A simple API will 
+and training data need to be accessible and require permission control. A [simple API](https://github.com/sagecontinuum/sage-storage-api) will 
 provide an unified view of the storage. Metadata stored in a database will make the objects 
 searchable. A separate search engine service that holds a copy of all metadata and 
 allows efficient search queries is being considered.

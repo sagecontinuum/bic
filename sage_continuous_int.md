@@ -1,7 +1,7 @@
 # Sage Continuous Integration (SCI):
 
 #### Interim Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
-#### New Lead: [Joe Swantek](mailto:joseph.swantek@northwestern.edu)
+#### Expected Lead: [Joe Swantek](mailto:joseph.swantek@northwestern.edu)
 
 ### Overview:
 
@@ -14,10 +14,10 @@ Waggle nodes (BWD) can be used for testing.
 
 ### Milestones:
 
-  * Setup Jenkins server configured to check SAGE github repositories for Jenkinsfiles.
+  * Setup Jenkins server configured to check SAGE github repositories for Jenkins files.
   * Create Jenkinsfiles for edge bundles and other SAGE components
   * Deploy Jenkins slaves in compute resources such as Chameleon or SDSC. 
-  * Dynamic allocation of compute resources for jenkins slaves.
+  * Dynamic allocation of compute resources for Jenkins slaves.
   
 ### Implementation Notes:
 Jenkins is the most commonly used automation server for this purpose, which will 

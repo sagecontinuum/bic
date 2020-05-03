@@ -15,4 +15,7 @@ Each user needs login credentials, and the ability to get an OAuth2 token for pr
 
 ### Implementation Notes:
 
-Globus OAuth server provides a login mechanism for SAGE users with institutional logins. https://github.com/sagecontinuum/sage-ui is a django-based web server that allows SAGE users to login and generate SAGE tokens. A token introspection API allows other software components in SAGE (e.g. storage API) to match tokens to users. 
+Globus OAuth server provides a login mechanism for SAGE users with institutional logins. 
+[SAGE UI](https://github.com/sagecontinuum/sage-ui) is a django-based web server that allows 
+SAGE users to login and generate SAGE tokens. A token introspection API allows other software 
+components in SAGE (e.g. storage API) to match tokens to users. 

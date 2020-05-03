@@ -9,7 +9,7 @@ BIC are software components that provide shared the essential services and tools
   * [Storage & Storage API](https://github.com/sagecontinuum/bic/blob/master/storage_storage_api.md)
   * [Authorization Service](https://github.com/sagecontinuum/bic/blob/master/auth_service.md)
   * [User Management and Authentication](https://github.com/sagecontinuum/bic/blob/master/uma.md)
-  * [SAGE Continuous Integration]()
+  * [Sage Continuous Integration](https://github.com/sagecontinuum/bic/blob/master/sage_continuous_int.md)
   * [Public Streaming Service]()
   * [Sage Web Portal](https://github.com/sagecontinuum/bic/blob/master/web_portal.md)
 

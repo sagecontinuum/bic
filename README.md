@@ -7,7 +7,7 @@
 BIC are software components that provide shared the essential services and tools in the Sage CI. It is composed of the following broad set of services and tools - 
 
   * [Storage & Storage API]()
-  * [Authorization Service]()
+  * [Authorization Service](https://github.com/sagecontinuum/bic/blob/master/auth_service.md)
   * [User management and Authentication]()
   * [SAGE continuous integration]()
   * [Public streaming service]()

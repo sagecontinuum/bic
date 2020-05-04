@@ -1,6 +1,6 @@
 # Base Infrastructure Components (BIC)
 
-#### Lead(s): Ilkay Altintas and [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Lead(s): Ilkay Altintas and Wolfgang Gerlach
 
 ### Overview:
 

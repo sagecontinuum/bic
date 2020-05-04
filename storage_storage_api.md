@@ -1,7 +1,6 @@
 # Storage & Storage API
 
-#### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
-
+#### Lead: Wolfgang Gerlach
 ### Overview:
 
 Storage services are needed for various software components. Data objects like ML models, 

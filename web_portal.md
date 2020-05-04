@@ -1,6 +1,6 @@
 # Sage Web Portal (SWP)
 
-#### Interim Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Interim Lead: Wolfgang Gerlach
 
 ### Overview:
 

@@ -1,7 +1,6 @@
 # Sage Continuous Integration (SCI):
 
-#### Interim Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
-#### Expected Lead: [Joe Swantek](mailto:joseph.swantek@northwestern.edu)
+#### Lead(s): [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu) and [Joe Swantek](mailto:joseph.swantek@northwestern.edu)
 
 ### Overview:
 

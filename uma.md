@@ -1,6 +1,6 @@
 # User Management and Authentication (UMA)
 
-#### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Lead: Wolfgang Gerlach
 
 ### Overview:
 A database to manage SAGE users. 

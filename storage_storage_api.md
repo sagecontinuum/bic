@@ -28,12 +28,12 @@ This list includes data that may be stored on 3rd-party systems like github.
   * Trigger apps (github)
   * Edge code (github)
   * ECR Bundles (just a collection of references, mysql?)
-  * Dockerfiles (github)
-  * Dockerimages (dockerhub)
+  * Docker Files (github)
+  * Docker Images (dockerhub)
   * Sensor calibration parameters
   * Sensor data
   * Sensor blob data (large files)
-  * May include: binaries / GPU optimized code
+  * May include: Binaries / GPU optimized code
   
 ##### Metadata:
 Metadata that some of the objects will need:

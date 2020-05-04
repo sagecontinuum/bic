@@ -1,6 +1,6 @@
 # Authorization Service
 
-#### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Lead: Wolfgang Gerlach
 
 ### Overview:
 The Authorization Service manages permissions of each object hosted by SAGE. 

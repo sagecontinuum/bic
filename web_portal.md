@@ -11,7 +11,11 @@ for SAGE users to browse and search data products. It provides an interface to u
 and downloads.
 
 ### Requirements:
-Tables to browse and search for SAGE data objects such as edge bundles, ML models and training datasets. A login system to allow access to private data. Data sharing functionality. Upload and download of files. Creation of ECR bundles. Any other functionality that may required by other functional components.
+* Tables to browse and search for SAGE data objects such as edge bundles, ML models and training datasets. 
+* A login system to allow access to private data. Data sharing functionality. 
+* Upload and download of files. 
+* Creation of ECR bundles. 
+* Any other functionality that may be required by other functional components.
 
 ### Milestones:
   * Draft version that allows user registration and login.

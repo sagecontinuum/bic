@@ -1,6 +1,6 @@
 # Sage Continuous Integration (SCI):
 
-#### Lead(s): [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu) and [Joe Swantek](mailto:joseph.swantek@northwestern.edu)
+#### Lead(s): Wolfgang Gerlach and Joe Swantek
 
 ### Overview:
 

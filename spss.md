@@ -1,7 +1,7 @@
 # Sage Public Streaming Service (SPSS)
 
 
-#### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Lead: Wolfgang Gerlach
 
 ### Overview:
 

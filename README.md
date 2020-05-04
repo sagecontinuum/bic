@@ -4,7 +4,7 @@
 
 ### Overview:
 
-BIC provides shared essential services and tools in the Sage CI. It is composed of the following broad set of services and tools - 
+BIC in Sage CI provide shared essential services and tools, which include the following - 
 
   * [Storage & Storage API](https://github.com/sagecontinuum/bic/blob/master/storage_storage_api.md)
   * [Authorization Service](https://github.com/sagecontinuum/bic/blob/master/auth_service.md)

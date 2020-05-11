@@ -1,10 +1,9 @@
-# Base Infrastructure Components (BIC)
+# Sage Core Services (SCS)
 
 #### Lead(s): Ilkay Altintas and Wolfgang Gerlach
 
 ### Overview:
-
-BIC in Sage CI provide shared essential services and tools, which include the following - 
+To deliver the Sage Cyberinfrastructure, a set of essential components and tools provide data APIs, authentication, and management services to the entire framework.  This includes:
 
   * [Storage & Storage API](https://github.com/sagecontinuum/bic/blob/master/storage_storage_api.md)
   * [Authorization Service](https://github.com/sagecontinuum/bic/blob/master/auth_service.md)
@@ -13,6 +12,5 @@ BIC in Sage CI provide shared essential services and tools, which include the fo
   * [Public Streaming Service](https://github.com/sagecontinuum/bic/blob/master/spss.md)
   * [Sage Web Portal](https://github.com/sagecontinuum/bic/blob/master/web_portal.md)
 
-The BIC are hosted and excuted on the Sage [Public Cyber Resources]().
 
 
